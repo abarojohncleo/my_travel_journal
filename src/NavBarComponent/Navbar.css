@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+.nav {
+    height: 120px;
+    background-color: #c75056;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-text {
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    color: white;
+}
+
+.phicon {
+    width: 100px;
+    height: 80px;
+    margin: 20px 10px;
+}
